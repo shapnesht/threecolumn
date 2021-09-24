@@ -29,6 +29,7 @@ button {
   font-family: 'Lexend Deca', sans-serif;
   font-weight: 400;
   margin: 50px auto;
+  cursor:pointer;
 }
 
 .red:hover {
